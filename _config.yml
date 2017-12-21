@@ -21,10 +21,10 @@ sass:
 
 # Comment
 comment:
-  disqus: kongsong    
+  # disqus: kongsong    
   # duoshuo: kongsong
   # youyan: 2122392
-  laibili: MTAyMC8yODgzNC81NDA0
+  # laibili: MTAyMC8yODgzNC81NDA0
 
 # Website analytics
 # google_analytics: UA-82494501-1
@@ -33,7 +33,7 @@ comment:
 # Author information:
 author:
   #resume: /resume
-  name: 孙思妤     #the name of Blog section
+  name: Emily Sun     #the name of Blog section
   about_me: 我是孙思妤，我是一名学生。
  
 # Social Links
