@@ -1,8 +1,8 @@
 #Site
-title: 水榭清松-Song Kong
-description: This is Song' home.
+title: 思思
+description: 孙思妤的主页.
 logo: favicon.png
-url: kongsong.me
+url: www.sunsiyu.com
 rss_url: /feed.xml
 
 # Jekyll
@@ -27,23 +27,23 @@ comment:
   laibili: MTAyMC8yODgzNC81NDA0
 
 # Website analytics
-google_analytics: UA-82494501-1
-baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?***
+# google_analytics: UA-82494501-1
+# baidu_analytics: 5b31ffbbdc6cff18727f3adf75a03777    #from //hm.baidu.com/hm.js?***
 
 # Author information:
 author:
   #resume: /resume
-  name: Song Kong     #the name of Blog section
-  about_me: I'm Song Kong, a student from BUPT. This is my online home & blog, where I share thoughts about front-end development, my daily life and other insteresting topics. Feel free to contact me by email if you have any question.
+  name: 孙思妤     #the name of Blog section
+  about_me: 我是孙思妤，我是一名学生。
  
 # Social Links
-email:               hi@kongsong.me
+email:               87762748@qq.com
 #google.plus:        username
 #twitter:            username
-facebook:            kongsong
-github:              songkong
-stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
-linkedin:           kongsong
+# facebook:            kongsong
+github:              sunsiyu81
+# stackoverflow:      6438519/song-kong   #from a "http://stackoverflow.com/users/123456/username" link
+# linkedin:           kongsong
 #xing:              username
 #instagram:          username
 #lastfm:            username
